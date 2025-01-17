@@ -1,6 +1,8 @@
 什么是 Pythonic 函数调用
 -----------------------
 
+by @karminski-牙医
+
 
 Pythonic function call 是一种新的工具调用方式，它允许 LLM 通过生成 Python 代码来调用函数，而不是传统的 JSON schema 方式。
 
