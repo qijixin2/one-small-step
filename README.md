@@ -13,7 +13,7 @@ by @karminski-牙医
 
 ### 人工智能相关
 - [什么是 GGUF](20250113-what-is-gguf/what-is-gguf.md) - 介绍 GGUF 文件格式及其在大语言模型部署中的应用
-- [什么是推测性解码](20251116-what-is-speculative-decoding/what-is-speculative-decoding.md) - 解释推测性解码技术如何提升大语言模型的推理性能
+- [什么是推测性解码](20250116-what-is-speculative-decoding/what-is-speculative-decoding.md) - 解释推测性解码技术如何提升大语言模型的推理性能
 - [什么是 Pythonic 函数调用](20250117-what-is-pythonic-function-call/what-is-pythonic-function-call.md) - 为什么 Pythonic 函数调用 比 function call 效果好?
 
 ### 系统相关
