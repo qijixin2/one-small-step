@@ -20,6 +20,7 @@ by @karminski-牙医
 - [什么是 Pythonic 函数调用](20250117-what-is-pythonic-function-call/what-is-pythonic-function-call.md) - 为什么 Pythonic 函数调用 比 function call 效果好?
 - [如何本地运行 GGUF 格式的 LLM 模型](20250122-how-to-run-gguf-LLM-model/how-to-run-gguf-LLM-model.md) - 如何本地运行 GGUF 格式的 LLM 模型?
 - [什么是 LLM 蒸馏技术](20250123-what-is-LLM-distill/what-is-LLM-distill.md) - 什么是 LLM 蒸馏技术?
+- [什么是 Transformer](20250126-what-is-transformer/what-is-transformer.md) - 什么是 Transformer?
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
