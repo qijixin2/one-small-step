@@ -27,8 +27,7 @@ by @karminski-牙医
 ### 硬件相关
 - [什么是 PCIe Retimer](20250119-what-is-pcie-retimer/what-is-pcie-retimer.md) - 详解 PCIe Retimer 的原理和应用
 - [为什么有的 NVMe SSD 有 DRAM, 有的没有?](20250124-why-some-NVMe-SSD-have-DRAM-and-some-are-not/why-some-NVMe-SSD-have-DRAM-and-some-are-not.md) - 为什么有的 NVMe SSD 有 DRAM, 有的没有?
-- [CLX 会是大语言模型的内存解决方案吗?](20250125-does-CLX-will-be-LLM-memory-solution/does-CLX-will-be-LLM-memory-solution.md) - 什么是 CXL 设备, 为什么 CXL 内存不能作为大语言模型的内存解决方案?
-
+- [CLX 会是大语言模型的内存解决方案吗?](20250125-does-CLX-will-be-LLM-memory-solution/does-CLX-will-be-LLM-memory-solution.md) - 什么? PCIe 上能插内存了?
 ## 许可
 
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
