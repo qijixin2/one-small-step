@@ -1,0 +1,29 @@
+name: Metrics Generation
+on:
+  workflow_dispatch:        # 允许手动触发
+  push:
+    branches:
+      - main              # 当 main 分支有推送时运行
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # 需要写入权限来更新 README
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""        # 不包含基础指标
+          template: classic
+          config_timezone: Asia/Shanghai  # 设置时区为中国
+          repositories_forks: no
+          repositories: "karminski/one-small-step"  # 指定你的仓库
+          plugin_calendar: yes
+          filename: assets/images/metrics.svg          # 输出文件名
+  actions-timeline:
+    needs: [metrics]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: Kesin11/actions-timeline@v2
