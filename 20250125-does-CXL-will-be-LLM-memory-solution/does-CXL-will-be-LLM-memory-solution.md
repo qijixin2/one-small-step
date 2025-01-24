@@ -1,10 +1,10 @@
-CLX 会是大语言模型的内存解决方案吗?
+CXL 会是大语言模型的内存解决方案吗?
 --------------------------------
 
 by @karminski-牙医
 
 
-![CLX-logo](assets/images/cxa-8f2w.jpeg)
+![CXL-logo](assets/images/cxa-8f2w.jpeg)
 
 (图片来自 mouser)
 
@@ -35,7 +35,7 @@ CXL 包括:
 
 在设备中, CXL内存显示为无CPU-NUMA节点. CXL 协议支持交换, 甚至CXL Fabric之类的光传输方案. 然而, CXL 内存引入了更长的内存访问延迟, 即 CPU-> PCIe控制器 -> CXL控制器 (如下图). 
 
-![CLX-logo](assets/images/cxl-memory-diag.webp)
+![CXL-logo](assets/images/cxl-memory-diag.webp)
 
 (图片来自 ipoom-jeong.com)
 
