@@ -11,6 +11,8 @@ jobs:
     permissions:
       contents: write     # 需要写入权限来更新 README
     steps:
+      - uses: actions/checkout@v3    # 首先需要检出代码
+      
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -22,6 +24,19 @@ jobs:
           repositories: "karminski/one-small-step"  # 指定你的仓库
           plugin_calendar: yes
           filename: assets/images/metrics.svg          # 输出文件名
+          
+      - name: Remove h2 tags from SVG
+        run: |
+          perl -i -p0e 's/<h2[^>]*>.*?<\/h2>//gs' assets/images/metrics.svg
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/images/metrics.svg
+          git commit -m "chore: remove h2 tags from metrics svg" || echo "No changes to commit"
+          git push
+
   actions-timeline:
     needs: [metrics]
     runs-on: ubuntu-latest
