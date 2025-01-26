@@ -1,6 +1,8 @@
 什么是 Transformer?
 ------------------
 
+by @karminski-牙医
+
 ![transformer-explain](assets/images/transformer-explain.png)
 
 Transformer 是一种用于自然语言处理 (NLP) 的深度学习模型架构, 由 Vaswani 等人在 2017 年提出. 它主要用于处理序列到序列的任务, 如机器翻译, 文本生成等.   
