@@ -28,13 +28,15 @@ jobs:
       - name: Remove h2 tags from SVG
         run: |
           perl -i -p0e 's/<h2[^>]*>.*?<\/h2>//gs' assets/images/metrics.svg
+          cp assets/images/metrics.svg assets/images/metrics-without-label.svg
           
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/images/metrics.svg
-          git commit -m "chore: remove h2 tags from metrics svg" || echo "No changes to commit"
+          git pull --rebase
+          git add assets/images/metrics.svg assets/images/metrics-without-label.svg
+          git commit -m "chore: update metrics svg files" || echo "No changes to commit"
           git push
 
   actions-timeline:
