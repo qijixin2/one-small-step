@@ -25,9 +25,10 @@ jobs:
           plugin_calendar: yes
           filename: assets/images/metrics.svg          # 输出文件名
           
-      - name: Remove h2 tags from SVG
+      - name: Remove h2 tags and adjust height in SVG
         run: |
           perl -i -p0e 's/<h2[^>]*>.*?<\/h2>//gs' assets/images/metrics.svg
+          sed -i 's/height="[0-9]*"/height="80"/' assets/images/metrics.svg
           cp assets/images/metrics.svg assets/images/metrics-without-label.svg
           
       - name: Commit changes
