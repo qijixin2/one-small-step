@@ -25,6 +25,7 @@ by @karminski-牙医
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
+- [RAMMap 使用解析](20250128-rammap-description/rammap-description.md) - 详解 RAMMap 的使用方法
 
 ### 硬件相关
 - [什么是 PCIe Retimer](20250119-what-is-pcie-retimer/what-is-pcie-retimer.md) - 详解 PCIe Retimer 的原理和应用
