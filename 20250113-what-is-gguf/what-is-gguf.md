@@ -5,7 +5,7 @@ by @karminski-牙医
 
 ![gguf-file-structure](assets/images/gguf-file-structure.png)
 
-GGUF（GPT-Generated Unified Format，GPT 生成的统一格式）是一种专为大型语言模型（LLM）设计的文件格式。它旨在解决大型模型在实际应用中遇到的存储效率、加载速度、兼容性和扩展性等问题，从而简化 LLM 的使用和部署。
+[GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md)（GGML Universal File）是一种专为大型语言模型（LLM）设计的文件格式。它旨在解决大型模型在实际应用中遇到的存储效率、加载速度、兼容性和扩展性等问题，从而简化 LLM 的使用和部署。
 
 ## GGUF 的主要特点和优势
 
@@ -26,12 +26,12 @@ GGUF 格式的模型文件可以用于各种应用场景，例如：
 
 总而言之，GGUF 是一种重要的 LLM 文件格式，它通过提高存储效率、加载速度和兼容性，简化了 LLM 的使用和部署，并有望成为未来大模型文件标准格式之一。
 
-
 ## 那些框架支持 GGUF
 
 - [ggml](https://github.com/ggerganov/ggml)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
-
+- [InfniLM](https://github.com/InfiniTensor/InfiniLM)
+- [crabml](https://github.com/crabml/crabml)
 
 ## Reference
 
