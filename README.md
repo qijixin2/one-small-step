@@ -5,7 +5,7 @@ by @karminski-牙医
 
 ![one-small-step](assets/images/Apollo_11_mission_Buzz_Aldrins_boot_on_lunar_soil_2017_Bing_Wallpaper_1366x768.jpg)
 
-**这是一个简单的技术科普教程项目, 主要聚焦于解释一些有趣的, 前沿的技术概念和原理. 每篇文章都力求在 5 分钟内阅读完成. **  
+**这是一个简单的技术科普教程项目, 主要聚焦于解释一些有趣的, 前沿的技术概念和原理. 每篇文章都力求在 5 分钟内阅读完成.**  
 
 
 ![Metrics](./assets/images/metrics-without-label.svg)  
