@@ -9,7 +9,7 @@ Flash Attention 是一种优化的注意力机制, 旨在提高深度学习模�
 
 目前的GPU架构中, HBM 容量大但处理速度慢, SRAM 虽然容量小但操作速度快. 
 
-标准的注意力机制使用 HBM 来存储、读取和写入注意力分数矩阵（attention score matrix, 矩阵存储 Q/K/V). 具体步骤为将这些加从 HBM 载到 GPU 的片上 SRAM, 然后执行注意力机制的单个步骤, 然后写回 HBM, 并重复此过程. 
+标准的注意力机制使用 HBM 来存储、读取和写入注意力分数矩阵（attention score matrix, 矩阵存储 Q/K/V). 具体步骤为将这些从 HBM 加载到 GPU 的片上 SRAM, 然后执行注意力机制的单个步骤, 然后写回 HBM, 并重复此过程. 
 
 而 Flash Attention 则是采用分块计算（Tiling）技术，将大型注意力矩阵划分为多个块（tile），在 SRAM 中逐块执行计算。通过：
 - **分块策略**：将 Q/K/V 矩阵分块后流水线处理，避免存储完整的中间矩阵
