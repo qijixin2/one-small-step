@@ -24,6 +24,7 @@ by @karminski-牙医
 - [如何优化 Transformer](20250127-how-to-optimize-transformer/how-to-optimize-transformer.md) - Transformer 的优化方案都有哪些?
 - [什么是大语言模型量化](20250129-what-is-quantization-in-LLM/what-is-quantization-in-LLM.md) - 什么是大语言模型量化? 每个量化精度都代表什么?
 - [什么是 Flash Attention](20250201-what-is-flash-attention/what-is-flash-attention.md) - 什么是 Flash Attention? 为什么能将大语言模型推理速度提升3倍?
+- [什么是 Multi-Head Attention](20250202-what-is-multi-head-attention/what-is-multi-head-attention.md) - 什么是 Multi-Head Attention? Attention Is All You Need 论文精读
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
