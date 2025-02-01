@@ -16,7 +16,7 @@ by @karminski-牙医
 
 - **Multi-Query Attention (MQA)**
   - 减少 Key 和 Value 的头数, 降低内存使用和计算量
-  - 被 PaLM, DeepSeek, Falcon, BLOOM 等采用
+  - 被 PaLM, Falcon, BLOOM 等采用
 
 - **Grouped-Query Attention (GQA)**
   - MQA 的改进版本, 通过分组共享 Key/Value 矩阵（而非完全独立）实现性能和效率的平衡
@@ -74,7 +74,7 @@ by @karminski-牙医
 
 - **混合精度训练**
   - FP16/BF16 混合精度训练广泛应用于大模型训练
-  - FP8 目前主要用于推理阶段（如 NVIDIA H100）, 但 DeepSeek-V3 使用了 FP8 训练, 带来了巨大的成本优势
+  - FP8 目前主要用于推理阶段（如 NVIDIA H100）, 但 DeepSeek-V3 使用了 FP8 训练, 带来了巨大的成本优势, 甚至最新的论文还尝试了 FP4 训练
   - 大多数现代大模型使用 BF16 训练
 
 - **梯度检查点**
