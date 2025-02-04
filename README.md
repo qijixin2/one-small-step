@@ -25,6 +25,8 @@ by @karminski-牙医
 - [什么是大语言模型量化](20250129-what-is-quantization-in-LLM/what-is-quantization-in-LLM.md) - 什么是大语言模型量化? 每个量化精度都代表什么?
 - [什么是 Flash Attention](20250201-what-is-flash-attention/what-is-flash-attention.md) - 什么是 Flash Attention? 为什么能将大语言模型推理速度提升3倍?
 - [什么是 Multi-Head Attention](20250202-what-is-multi-head-attention/what-is-multi-head-attention.md) - 什么是 Multi-Head Attention? Attention Is All You Need 论文精读
+- [什么是 Multi-Query Attention](20250204-what-is-multi-query-attention/what-is-multi-query-attention.md) - 什么是 Multi-Query Attention?
+- [什么是 Grouped Query Attention](20250205-what-is-gropued-query-attention/what-is-gropued-query-attention.md) - 什么是 Grouped Query Attention?
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
