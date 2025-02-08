@@ -27,7 +27,7 @@ by @karminski-牙医
 - [什么是 Multi-Head Attention](20250202-what-is-multi-head-attention/what-is-multi-head-attention.md) - 什么是 Multi-Head Attention? Attention Is All You Need 论文精读
 - [什么是 Multi-Query Attention](20250204-what-is-multi-query-attention/what-is-multi-query-attention.md) - 什么是 Multi-Query Attention?
 - [什么是 Grouped Query Attention](20250205-what-is-gropued-query-attention/what-is-gropued-query-attention.md) - 什么是 Grouped Query Attention?
-
+- [什么是 LLM 微调技术](20250208-what-is-LLM-fine-tuning/what-is-LLM-fine-tuning.md) - 什么是 LLM 微调技术?
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
 - [RAMMap 使用解析](20250128-rammap-description/rammap-description.md) - 详解 RAMMap 的使用方法
