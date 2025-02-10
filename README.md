@@ -31,6 +31,7 @@ by @karminski-牙医
 - [什么是 RAG 技术](20250209-what-is-RAG/what-is-RAG.md) - 什么是 RAG 技术?
 - [什么是 Safetensors](20250210-what-is-safetensors/what-is-safetensors.md) - 什么是 Safetensors?
 - [什么是 ONNX](20250211-what-is-onnx/what-is-onnx.md) - 什么是 ONNX?
+- [大模型微调最佳实践指南](20250210-LLM-fine-tuning-summary/LLM-fine-tuning-summary.md) - 大模型微调最佳实践指南
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
