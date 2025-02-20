@@ -52,6 +52,11 @@ by @karminski-牙医
 
 由于个人能力有限, 难免会有错误, 欢迎大家指正, 任何形式的贡献或者讨论都十分欢迎, 可以提交 issue 或者直接 PR.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=karminski/one-small-step&type=Date)](https://star-history.com/#karminski/one-small-step&Date)
+
+
 ## 许可
 
 本项目采用 MIT 许可证. 详见 [LICENSE](LICENSE) 文件. 
