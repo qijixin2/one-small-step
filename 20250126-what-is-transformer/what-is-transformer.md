@@ -11,7 +11,7 @@ Transformer 是一种用于自然语言处理 (NLP) 的深度学习模型架构,
 
 用户给定的文本 (prompt), 模型会预测下一个词最有可能是什么. Transformer 的核心创新和强大之处在于它使用的自注意力机制（self-attention mechanism）, 这使得它们能够处理整个序列, 并比之前的架构 (RNN) 更有效地捕捉长距离依赖关系. 
 
-另外需要住的是, GitHub 上的 huggingface/transformers 是 HuggingFace 实现的 Transformer 模型库, 包括了 Transformer 的实现和大量的预训练模型. 
+另外需要注意的是, GitHub 上的 huggingface/transformers 是 HuggingFace 实现的 Transformer 模型库, 包括了 Transformer 的实现和大量的预训练模型. 
 
 目前的 LLM 基本都基于 Transformer 架构, 并对其进行优化技术和训练方法的改进. 
 
