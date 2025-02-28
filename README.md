@@ -35,6 +35,8 @@ by @karminski-牙医
 - [什么是 MoE 模型](20250217-what-is-MoE/what-is-MoE-model.md) - 什么是 MoE 模型?
 - [LLM 中的 Token 是如何计算的](20250218-how-are-tokens-calculated-in-LLMs/how-are-tokens-calculated-in-LLMs.md) - LLM 中的 Token 是如何计算的?
 - [什么是 AI Agent](20250220-what-is-AI-Agent/what-is-AI-Agent.md) - 什么是 AI Agent?
+- [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
+- [什么是 LoRA](20250228-what-is-LoRA/what-is-LoRA.md) - 什么是 LoRA? 为什么用 LoRA 微调大模型更高效?
 
 
 ### 系统相关
