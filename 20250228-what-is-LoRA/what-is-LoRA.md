@@ -15,7 +15,7 @@ LoRA（Low-Rank Adaptation, 低秩自适应）：由微软于 2021 年提出，�
 
 ## LoRA 的工作原理
 
-(如果不知道什么是低秩矩阵, 可以看上一篇内容 [什么是矩阵的秩？什么是低秩矩阵？](./20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md))
+(如果不知道什么是低秩矩阵, 可以看上一篇内容 [什么是矩阵的秩？什么是低秩矩阵？](../20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md))
 
 LoRA 基于这样一个假设：模型微调时的权重更新矩阵 ΔW 具有内在的低秩性质。具体推导过程：
 
