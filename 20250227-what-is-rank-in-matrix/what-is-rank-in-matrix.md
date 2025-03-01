@@ -84,4 +84,4 @@ $\|A - A_k\|_F \leq \sqrt{\sum_{i=k+1}^r \sigma_i^2}$
 
 ## Refs
 
-* [Data-driven methods for reduced-order modeling](https://www.researchgate.net/publication/347692023_7_Data-driven_methods_for_reduced-order_modeling)
+* [7 Data-driven methods for reduced-order modeling](https://www.researchgate.net/publication/347692023_7_Data-driven_methods_for_reduced-order_modeling)
