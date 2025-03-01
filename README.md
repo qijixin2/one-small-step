@@ -39,6 +39,7 @@ by @karminski-牙医
 
 ### 数学相关
 - [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
+- [什么是拟合与过拟合](20250301-what-is-fitting-and-overfitting/what-is-fitting-and-overfitting.md) - 什么是拟合与过拟合?
 
 ### 系统相关
 - [Windows 任务管理器内存标签说明](20250104-windows-task-manager-memory-tab-description/windows-task-manager-memory-tab-description.md) - 详解 Windows 任务管理器中各个内存指标的含义
