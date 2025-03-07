@@ -36,6 +36,9 @@ by @karminski-牙医
 - [LLM 中的 Token 是如何计算的](20250218-how-are-tokens-calculated-in-LLMs/how-are-tokens-calculated-in-LLMs.md) - LLM 中的 Token 是如何计算的?
 - [什么是 AI Agent](20250220-what-is-AI-Agent/what-is-AI-Agent.md) - 什么是 AI Agent?
 - [什么是 LoRA](20250228-what-is-LoRA/what-is-LoRA.md) - 什么是 LoRA? 为什么用 LoRA 微调大模型更高效?
+- [什么是向量嵌入](20250307-what-is-vector-embedding/what-is-vector-embedding.md) - 什么是向量嵌入? 
+- [什么是向量数据库](20250308-what-is-vector-database/what-is-vector-database.md) - 什么是向量数据库?
+- [什么是 AI 幻觉](20250309-what-is-AI-Hallucination/what-is-AI-Hallucination.md) - 什么是 AI 幻觉?
 
 ### 数学相关
 - [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
