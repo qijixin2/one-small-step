@@ -39,6 +39,9 @@ by @karminski-牙医
 - [什么是向量嵌入](20250307-what-is-vector-embedding/what-is-vector-embedding.md) - 什么是向量嵌入? 
 - [什么是向量数据库](20250308-what-is-vector-database/what-is-vector-database.md) - 什么是向量数据库?
 - [什么是 AI 幻觉](20250309-what-is-AI-Hallucination/what-is-AI-Hallucination.md) - 什么是 AI 幻觉?
+- [什么是模态编码](20250315-what-is-modal-encoding/what-is-modal-encoding.md) - 什么是模态编码?
+- [什么是表示空间](20250316-what-is-representation-space/what-is-representation-space.md) - 什么是表示空间?
+- [什么是多模态模型](20250317-what-is-multi-model-llm/what-is-multi-model-llm.md) - 什么是多模态模型?
 
 ### 数学相关
 - [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
