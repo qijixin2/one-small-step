@@ -42,6 +42,7 @@ by @karminski-牙医
 - [什么是模态编码](20250315-what-is-modal-encoding/what-is-modal-encoding.md) - 什么是模态编码?
 - [什么是表示空间](20250316-what-is-representation-space/what-is-representation-space.md) - 什么是表示空间?
 - [什么是多模态模型](20250317-what-is-multi-model-llm/what-is-multi-model-llm.md) - 什么是多模态模型?
+- [什么是 LLM 的困惑度](20250403-what-is-llm-perplexity/what-is-llm-perplexity.md) - 什么是大模型的困惑度? 为什么量化版本要用困惑度来评价量化质量?
 
 ### 数学相关
 - [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
