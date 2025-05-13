@@ -43,6 +43,7 @@ by @karminski-牙医
 - [什么是表示空间](20250316-what-is-representation-space/what-is-representation-space.md) - 什么是表示空间?
 - [什么是多模态模型](20250317-what-is-multi-model-llm/what-is-multi-model-llm.md) - 什么是多模态模型?
 - [什么是 LLM 的困惑度](20250403-what-is-llm-perplexity/what-is-llm-perplexity.md) - 什么是大模型的困惑度? 为什么量化版本要用困惑度来评价量化质量?
+- [如何避免 KVCache 失效](20250513-How-to-avoid-KVCache-invalidation/How-to-avoid-KVCache-invalidation.md) - 当心动态内容, 会导致 KVCache 失效
 
 ### 数学相关
 - [什么是矩阵的秩？什么是低秩矩阵？](20250227-what-is-rank-in-matrix/what-is-rank-in-matrix.md) - 什么是矩阵的秩？什么是低秩矩阵？
